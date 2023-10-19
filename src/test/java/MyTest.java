@@ -1,7 +1,7 @@
-import POM.AddEventPage;
-import POM.EventsPage;
-import POM.MainPage;
-import POM.SettingPage;
+import logic.POM.AddEventPage;
+import logic.POM.EventsPage;
+import logic.POM.MainPage;
+import logic.POM.SettingPage;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import org.junit.After;
